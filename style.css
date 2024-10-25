@@ -8,6 +8,8 @@ img {
     display: block;
     margin: auto;
     border: 5px solid black;
+    max-width: 300px; /* Set maximum width to 300 pixels */
+    height: auto; /* Maintain aspect ratio */
 }
 
 body {
